@@ -1,4 +1,4 @@
 # Learning-github
 This is my Git repo.
 <br>
-Author - Lalitha
+Author - Lalitha (Lally)
