@@ -1,3 +1,4 @@
 # Learning-github
-This is my Git repo
+This is my Git repo.
+<br>
 Author - Lalitha
